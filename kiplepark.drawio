@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-24T08:05:11.652Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3237.0 Safari/537.36" etag="Jj5IGC6TRKN0N3VlW5vT" version="12.1.4" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2019-10-24T08:42:17.024Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3237.0 Safari/537.36" etag="iqJDluVWn3cq_sPasC4m" version="12.1.4" type="github" pages="5">
   <diagram id="w00uWVof-ToGrlMLn6s3" name="第 1 页">
     <mxGraphModel dx="854" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -332,6 +332,86 @@
       <root>
         <mxCell id="PIvj7aFsTRUlUypdkbB4-0"/>
         <mxCell id="PIvj7aFsTRUlUypdkbB4-1" parent="PIvj7aFsTRUlUypdkbB4-0"/>
+        <mxCell id="NJhvHvg4252p-tzAevdr-0" value="" style="html=1;" vertex="1" parent="PIvj7aFsTRUlUypdkbB4-1">
+          <mxGeometry x="75" y="80" width="685" height="450" as="geometry"/>
+        </mxCell>
+        <mxCell id="NJhvHvg4252p-tzAevdr-1" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="PIvj7aFsTRUlUypdkbB4-1">
+          <mxGeometry x="130" y="130" width="110" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="NJhvHvg4252p-tzAevdr-2" value="商户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="PIvj7aFsTRUlUypdkbB4-1">
+          <mxGeometry x="350" y="130" width="100" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="NJhvHvg4252p-tzAevdr-3" value="财务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="PIvj7aFsTRUlUypdkbB4-1">
+          <mxGeometry x="590" y="130" width="100" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="NJhvHvg4252p-tzAevdr-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="NJhvHvg4252p-tzAevdr-3">
+          <mxGeometry x="50" y="120" width="10" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="NJhvHvg4252p-tzAevdr-5" value="7天审核" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" parent="NJhvHvg4252p-tzAevdr-3" target="NJhvHvg4252p-tzAevdr-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="120" as="sourcePoint"/>
+            <Array as="points">
+              <mxPoint x="80" y="120"/>
+              <mxPoint x="80" y="160"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJhvHvg4252p-tzAevdr-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="NJhvHvg4252p-tzAevdr-3">
+          <mxGeometry x="50" y="180" width="10" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="NJhvHvg4252p-tzAevdr-7" value="用户退款申请[信用卡]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PIvj7aFsTRUlUypdkbB4-1">
+          <mxGeometry x="280" y="90" width="210" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="NJhvHvg4252p-tzAevdr-8" value="转发填写申请退款portal" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="PIvj7aFsTRUlUypdkbB4-1">
+          <mxGeometry x="-0.0814" y="10" width="80" relative="1" as="geometry">
+            <mxPoint x="400" y="250" as="sourcePoint"/>
+            <mxPoint x="639.5" y="250" as="targetPoint"/>
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJhvHvg4252p-tzAevdr-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="PIvj7aFsTRUlUypdkbB4-1">
+          <mxGeometry x="390" y="220" width="10" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="NJhvHvg4252p-tzAevdr-10" value="申请退款" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="PIvj7aFsTRUlUypdkbB4-1" target="NJhvHvg4252p-tzAevdr-9">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="184.5" y="220" as="sourcePoint"/>
+            <mxPoint x="399.5" y="220" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJhvHvg4252p-tzAevdr-11" value="不同意返回给商户" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="PIvj7aFsTRUlUypdkbB4-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="639.5" y="290" as="sourcePoint"/>
+            <mxPoint x="399.5" y="290" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJhvHvg4252p-tzAevdr-12" value="同意退款&lt;br&gt;扣除费用" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" parent="PIvj7aFsTRUlUypdkbB4-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="655" y="313" as="sourcePoint"/>
+            <Array as="points">
+              <mxPoint x="680" y="313"/>
+              <mxPoint x="680" y="353"/>
+            </Array>
+            <mxPoint x="660" y="353" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJhvHvg4252p-tzAevdr-13" value="退款给用户的银行账号" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="PIvj7aFsTRUlUypdkbB4-1" target="NJhvHvg4252p-tzAevdr-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="330" as="sourcePoint"/>
+            <mxPoint x="560" y="330" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJhvHvg4252p-tzAevdr-14" value="通知email" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="PIvj7aFsTRUlUypdkbB4-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="639.5" y="351" as="sourcePoint"/>
+            <mxPoint x="184.5" y="351" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NJhvHvg4252p-tzAevdr-15" value="通知email&amp;amp;portal更改" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="PIvj7aFsTRUlUypdkbB4-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="640" y="370" as="sourcePoint"/>
+            <mxPoint x="400" y="370" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

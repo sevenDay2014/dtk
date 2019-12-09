@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-09T11:13:31.039Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3237.0 Safari/537.36" etag="UOVn2v79VNKzojq4kl9G" version="12.3.8" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-12-09T11:24:34.698Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3237.0 Safari/537.36" etag="wQ4SW-QXTiptMeBkwbwn" version="12.3.8" type="github" pages="2">
   <diagram id="0H-zC2-0R3sZy4OjrHl7" name="第 1 页">
     <mxGraphModel dx="712" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -395,7 +395,7 @@
         <mxCell id="J-Ejjq3flIcWrOYrAO9b-20" value="payment options" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
           <mxGeometry x="750" y="445" width="120" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="J-Ejjq3flIcWrOYrAO9b-43" value="KISS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
+        <mxCell id="J-Ejjq3flIcWrOYrAO9b-43" value="KISS[智慧母婴]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
           <mxGeometry x="-890" y="380" width="120" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="J-Ejjq3flIcWrOYrAO9b-44" value="PP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
@@ -423,7 +423,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="J-Ejjq3flIcWrOYrAO9b-48" value="Dominos Express card[卖pizz]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
+        <mxCell id="J-Ejjq3flIcWrOYrAO9b-48" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; ; font-size: 13px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Domino&amp;nbsp;&lt;/span&gt;Express card[达美乐pizz]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
           <mxGeometry x="-290" y="380" width="120" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="J-Ejjq3flIcWrOYrAO9b-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="eZUKuvoRVgsEIbDF9PON-1" source="J-Ejjq3flIcWrOYrAO9b-50" target="J-Ejjq3flIcWrOYrAO9b-134">
@@ -519,13 +519,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="J-Ejjq3flIcWrOYrAO9b-79" value="SELGNFE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
+        <mxCell id="J-Ejjq3flIcWrOYrAO9b-79" value="SELGNFE&lt;br&gt;[地区名称]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
           <mxGeometry x="-730" y="554" width="120" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="J-Ejjq3flIcWrOYrAO9b-81" value="API Interface" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#ffffff;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
           <mxGeometry x="-717" y="490" width="90" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="J-Ejjq3flIcWrOYrAO9b-84" value="ggsm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
+        <mxCell id="J-Ejjq3flIcWrOYrAO9b-84" value="99sm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
           <mxGeometry x="-957" y="635" width="120" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="J-Ejjq3flIcWrOYrAO9b-85" value="mydm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
@@ -646,7 +646,7 @@
         <mxCell id="J-Ejjq3flIcWrOYrAO9b-143" value="registertion[注册]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
           <mxGeometry x="-707" y="775" width="200" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="J-Ejjq3flIcWrOYrAO9b-144" value="card" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
+        <mxCell id="J-Ejjq3flIcWrOYrAO9b-144" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;card replacement/block&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
           <mxGeometry x="-707" y="815" width="200" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="J-Ejjq3flIcWrOYrAO9b-145" value="payment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
@@ -676,17 +676,17 @@
         <mxCell id="J-Ejjq3flIcWrOYrAO9b-164" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
           <mxGeometry x="-460" y="943" width="220" height="178" as="geometry"/>
         </mxCell>
-        <mxCell id="J-Ejjq3flIcWrOYrAO9b-165" value="card" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
+        <mxCell id="J-Ejjq3flIcWrOYrAO9b-165" value="card&amp;nbsp;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;registertion&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
           <mxGeometry x="-450" y="957.5" width="200" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="J-Ejjq3flIcWrOYrAO9b-166" value="balance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
           <mxGeometry x="-450" y="997.5" width="200" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="J-Ejjq3flIcWrOYrAO9b-167" value="card payment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
+        <mxCell id="J-Ejjq3flIcWrOYrAO9b-167" value="card replacement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
           <mxGeometry x="-450" y="1037.5" width="200" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="J-Ejjq3flIcWrOYrAO9b-168" value="????" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
-          <mxGeometry x="-450" y="1082.5" width="200" height="30" as="geometry"/>
+        <mxCell id="J-Ejjq3flIcWrOYrAO9b-168" value="block[挂失/冻结]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
+          <mxGeometry x="-450" y="1077.5" width="200" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="J-Ejjq3flIcWrOYrAO9b-171" value="settlement" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
           <mxGeometry x="-707" y="937.5" width="200" height="30" as="geometry"/>

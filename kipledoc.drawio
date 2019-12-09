@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-09T13:55:25.919Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3237.0 Safari/537.36" etag="jzz3mrQ2n5OOrevZoosH" version="12.3.8" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-12-09T14:13:42.538Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3237.0 Safari/537.36" etag="gGy04ZSAzPEQdYVo7a4t" version="12.3.8" type="github" pages="3">
   <diagram id="0H-zC2-0R3sZy4OjrHl7" name="第 1 页">
     <mxGraphModel dx="712" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cUeJUDqJahE6cD4y8AzB" name="第 2 页">
-    <mxGraphModel dx="3133" dy="1851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2521" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="eZUKuvoRVgsEIbDF9PON-0"/>
         <mxCell id="eZUKuvoRVgsEIbDF9PON-1" parent="eZUKuvoRVgsEIbDF9PON-0"/>
@@ -403,13 +403,16 @@
         <mxCell id="J-Ejjq3flIcWrOYrAO9b-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="eZUKuvoRVgsEIbDF9PON-1" source="J-Ejjq3flIcWrOYrAO9b-3" target="J-Ejjq3flIcWrOYrAO9b-20">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
+        <mxCell id="xtoQ5N4eppurA6Tmhk-k-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="eZUKuvoRVgsEIbDF9PON-1" source="J-Ejjq3flIcWrOYrAO9b-3" target="xtoQ5N4eppurA6Tmhk-k-30">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="J-Ejjq3flIcWrOYrAO9b-3" value="merchant&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
           <mxGeometry x="550" y="445" width="120" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="J-Ejjq3flIcWrOYrAO9b-22" value="reportings" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
+        <mxCell id="J-Ejjq3flIcWrOYrAO9b-22" value="reporting" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
           <mxGeometry x="550" y="550" width="120" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="J-Ejjq3flIcWrOYrAO9b-26" value="KISS/pp/KIDA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
+        <mxCell id="J-Ejjq3flIcWrOYrAO9b-26" value="KISS/pp/KIDA card registions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
           <mxGeometry x="670" y="727.5" width="120" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="J-Ejjq3flIcWrOYrAO9b-28" value="cards registers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
@@ -545,7 +548,10 @@
         <mxCell id="J-Ejjq3flIcWrOYrAO9b-74" value="Refund/void" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
           <mxGeometry x="330" y="910" width="200" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="J-Ejjq3flIcWrOYrAO9b-75" value="I-link payment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
+        <mxCell id="xtoQ5N4eppurA6Tmhk-k-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="eZUKuvoRVgsEIbDF9PON-1" source="J-Ejjq3flIcWrOYrAO9b-75" target="eZUKuvoRVgsEIbDF9PON-15">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="J-Ejjq3flIcWrOYrAO9b-75" value="1-link payment[链接购物生成URL，支付根据URL支付]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
           <mxGeometry x="330" y="947.5" width="200" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="J-Ejjq3flIcWrOYrAO9b-76" value="e-invoice" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
@@ -782,8 +788,8 @@
         <mxCell id="uEpgI8H6LDzpi5NkqIfr-0" value="&lt;h1&gt;normal[结算]&lt;/h1&gt;&lt;p&gt;MDR(gros-fee-fee tax = net) fee 2%&lt;/p&gt;&lt;p&gt;transaction&amp;nbsp; &amp;nbsp; gros&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; fee&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; net&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;p&gt;item1:&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;RM100:00&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; RM2:00&amp;nbsp; &amp;nbsp;RM98&lt;/p&gt;&lt;p&gt;item2:&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; RM:50:00&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; RM1:00&amp;nbsp; &amp;nbsp; RM49&lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;RM 150&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;RM 98+49&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;fontColor=#333333;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
           <mxGeometry x="-160" y="972.5" width="300" height="180" as="geometry"/>
         </mxCell>
-        <mxCell id="2qiXh2zgOEdiwyk8abIJ-1" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;span&gt;type&amp;nbsp; &amp;nbsp; &amp;nbsp;settlement&amp;nbsp; &amp;nbsp; &amp;nbsp;fee&amp;nbsp; &amp;nbsp; &amp;nbsp;enable&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;kiple&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; T+1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1%&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;true&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;fpx&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; T+2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1%&amp;nbsp; &amp;nbsp; &amp;nbsp; true&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;cc&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;T+3&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1%&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; no&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;wechat&amp;nbsp; &amp;nbsp; &amp;nbsp;T+4&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1%&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;true&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;billpay&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; T+1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ...&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;no&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;touch&#39;i go&amp;nbsp; &amp;nbsp;T+1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;...&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; no&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;fontColor=#333333;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
-          <mxGeometry x="980" y="400" width="300" height="240" as="geometry"/>
+        <mxCell id="2qiXh2zgOEdiwyk8abIJ-1" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;span&gt;type&amp;nbsp; &amp;nbsp; &amp;nbsp;settlement&amp;nbsp; &amp;nbsp; &amp;nbsp;fee&amp;nbsp; &amp;nbsp; &amp;nbsp;enable&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;kiple&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; T+1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1%&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;true&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;fpx&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; T+2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1%&amp;nbsp; &amp;nbsp; &amp;nbsp; true&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;cc&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;T+3&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1%&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; false&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;wechat&amp;nbsp; &amp;nbsp; &amp;nbsp;T+4&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1%&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;true&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;alipay&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; T+1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ...&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;false&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;touch&#39;i go&amp;nbsp; &amp;nbsp;T+1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;...&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; false&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&amp;nbsp; boost&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;T+4&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;...&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;false&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;fontColor=#333333;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
+          <mxGeometry x="980" y="400" width="300" height="260" as="geometry"/>
         </mxCell>
         <mxCell id="xtoQ5N4eppurA6Tmhk-k-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="eZUKuvoRVgsEIbDF9PON-1" source="xtoQ5N4eppurA6Tmhk-k-2" target="J-Ejjq3flIcWrOYrAO9b-93">
           <mxGeometry relative="1" as="geometry"/>
@@ -808,6 +814,9 @@
         </mxCell>
         <mxCell id="xtoQ5N4eppurA6Tmhk-k-23" value="walet" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
           <mxGeometry x="210" y="430" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="xtoQ5N4eppurA6Tmhk-k-30" value="TPA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="eZUKuvoRVgsEIbDF9PON-1">
+          <mxGeometry x="550" y="497.5" width="120" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
